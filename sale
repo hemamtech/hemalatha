@@ -1,0 +1,4 @@
+sno            item             purchase          sales          pending
+ 1         clothing                5                4               1
+ 2         furiture                6                3               3
+ 3           books                 8                6               2

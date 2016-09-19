@@ -1,0 +1,9 @@
+echo enter numbers
+read n
+i=1
+ while [ $i -le $n ] 
+ do
+   echo hai
+    i=expr $i"++"
+done
+
